@@ -9,6 +9,6 @@ public class HelloWorld {
     
     @GetMapping(value = "/HelloWorld")
     public String HelloWorld(){
-        return " Congratulations!, You have successfully launched the Application. [Version: 1.2]";
+        return " Congratulations!, You have successfully launched the Application. [Version: 1.3]";
     }
 }
